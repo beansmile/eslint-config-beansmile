@@ -1,0 +1,16 @@
+{
+  "name": "eslint-config-beansmile",
+  "version": "1.2.0",
+  "description": "eslint by beansmile",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "eslint-plugin-import": "^2.12.0",
+    "eslint-plugin-pathname": "^1.0.0",
+    "eslint-plugin-react": "^7.9.1"
+  }
+}
