@@ -1,0 +1,24 @@
+{
+  "extends": [
+    "beansmile/lib/engine",
+    "beansmile/lib/base-rule"
+  ],
+  "rules": {
+    "pathname/match-name": [
+      2,
+      {
+        "matchIndex": false
+      }
+    ]
+  },
+  "globals": {
+    "process.env": true,
+    "App": true,
+    "wx": true,
+    "wxp": true,
+    "getApp": true,
+    "Page": true,
+    "Component": true,
+    "getCurrentPages": true
+  }
+}
