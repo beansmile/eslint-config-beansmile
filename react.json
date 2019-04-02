@@ -1,0 +1,7 @@
+{
+  "extends": [
+    "beansmile/lib/engine",
+    "beansmile/lib/base-rule",
+    "beansmile/lib/react-rule"
+  ]
+}

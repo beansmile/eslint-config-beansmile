@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-beansmile",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "description": "eslint by beansmile",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "babel-eslint": "^10.0.1",
     "eslint-plugin-import": "^2.12.0",
     "eslint-plugin-pathname": "^1.0.0",
     "eslint-plugin-react": "^7.9.1"

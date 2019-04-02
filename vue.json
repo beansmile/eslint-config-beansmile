@@ -1,6 +1,5 @@
 {
   "extends": [
-    "beansmile/lib/engine",
     "beansmile/lib/base-rule"
   ]
 }
